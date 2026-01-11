@@ -1,14 +1,14 @@
-# Hi ðŸ‘‹, I'm Malintha 
+# Hi , I'm Malintha 
 
-### â­A kid who makes what he likesâ­
+### ⭐ kid who makes what he likes ⭐
 
-- ðŸ”­ I'm currently working on **An advance m3e alarm app for Android **
+- ­🔭 I'm currently working on **An advance m3e alarm app for Android **
 
-- ðŸŒ± I'm currently learning **Dart**
+- 🌱 I'm currently learning **Dart**
 
-- ðŸ“« How to reach me **malintha.lakshan.official@gmail.com**
+- 📫 How to reach me **malintha.lakshan.official@gmail.com**
 
-- âš¡ Fun fact **I have been coding since 12**
+- ⚡ Fun fact **I have been coding since 12**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
